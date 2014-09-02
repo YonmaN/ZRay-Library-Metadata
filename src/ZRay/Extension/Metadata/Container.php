@@ -1,8 +1,8 @@
 <?php
 
-namespace ZRay\Extension;
+namespace ZRay\Extension\Metadata;
 
-class Metadata {
+class Container {
 	/**
 	 * @var string
 	 */
